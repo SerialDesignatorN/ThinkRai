@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+body {
+	font-family: Poppins, sans-serif;
+}
+header {
+	background-color: #009dff;
+	color: #fff;
+	padding: 28px;
+	margin: -10px;
+	font-size: 44px;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+a {
+	color: #fff;
+}
+.uploadPost {
+	border-color: #000;
+    border-radius: 18px;
+}
+textarea {
+	resize: none;
+	font-family: Poppins;
+}
+boldtext {
+    font-weight: bold;
+    font-size: 24px;
+    position: absolute;
+    left: 453px;
+    top: 163px;
+}
+.postBtn {
+	color: #fff;
+	background-color: #009dff;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: Poppins;
+	border-radius: 26px;
+	border-color: #009dff;
+	position: absolute;
+	left: 706px;
+	top: 302px;
+	padding: 4px;
+}
